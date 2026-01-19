@@ -8,4 +8,4 @@ My Grocery List
 - Lemons
 - Blueberries
 - Avocados
-- Lemons
+
