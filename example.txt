@@ -8,6 +8,3 @@ My Grocery List
 - Lemons
 - Blueberries
 - Avocados
-
-Hello from my new branch! Try 2
-
